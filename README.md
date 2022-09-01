@@ -6,4 +6,4 @@ The whole project is divided into 3 sub-parts--> Main class, Registration part, 
 Logics are built on looping concept, conditional statement, class and methods.
 
 
-CREDITS - MOHIT YADAV,TARIQUE ANWAR.
+CREDITS - MOHIT YADAV,Tarique Anwar.
