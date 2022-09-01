@@ -1,0 +1,40 @@
+DATABASE DETAILS: 
+
+Name of Database: vaccineproject
+Table Name: register_vacc
+           ________________________________
+           | Attributes    | Datatype      |
+           |_______________|_______________|
+           | name          | varchar(50)   |
+           | age           | int           |
+           | address       | varchar(100)  |
+           | phone         | varchar(12)   |
+           | dose_count    | int           |
+           | vaccine_type  | varchar(4)    |
+           | dov           | date          |
+           |_______________|_______________|
+           Create table in database with above attributes and datatype only otherwise the data will not store in database.
+
+           
+          Table should be like this: 
+           _________________________________________________________________________________
+          |  name    |	age   |  address	| phone  |	dose_count	|  vaccine_type  |   dov  |
+          |__________|________|___________|________|______________|________________|________|
+          |          |        |           |        |              |                |        |
+          |          |        |           |        |              |                |        |
+          |          |        |           |        |              |                |        |
+          |          |        |           |        |              |                |        |
+          |__________|________|___________|________|______________|________________|________|
+
+            
+NOTE: Change username and password in ConnectionProvider when you use. 
+
+
+
+
+Group no -1
+CREDITS - MOHIT YADAV,TARIQUE ANWAR,ROSHNI RANA,MOHAN KUMAR.
+
+
+
+                                  *THANK YOU*
