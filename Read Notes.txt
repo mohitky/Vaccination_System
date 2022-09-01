@@ -33,7 +33,7 @@ NOTE: Change username and password in ConnectionProvider when you use.
 
 
 Group no -1
-CREDITS - MOHIT YADAV,TARIQUE ANWAR,ROSHNI RANA,MOHAN KUMAR.
+CREDITS - MOHIT YADAV,TARIQUE ANWAR,ROSHNI KUMARI,MOHAN KUMAR.
 
 
 
